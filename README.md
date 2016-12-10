@@ -1,6 +1,6 @@
-# Bootstrap 4 Prototyping Glue
+# Bootstrap 3 Prototyping Glue
 
-This starter project brings together the Sass from [Bootstrap 4](http://v4-alpha.getbootstrap.com/) and [Panini](https://github.com/zurb/panini) HTML templates. Panini is a simple, intuitive flat file generator for Gulp that was designed specifically for rapid prototyping.
+This starter project brings together the Sass from [Bootstrap 3](http://getbootstrap.com/) and [Panini](https://github.com/zurb/panini) HTML templates. Panini is a simple, intuitive flat file generator for Gulp that was designed specifically for rapid prototyping.
 
 The simplicity and speed of Panini makes it easy to isolate front-end design (CSS, JS, and HTML patterns) from other aspects of your project, and Panini still allows for HTML partials, external Handlebars helpers, and data from JSON or YAML sources when more complexity is needed.
 
@@ -16,7 +16,7 @@ In order to use this project, your computer needs:
 Get started by downloading the project with Git:
 
 ```bash
-git clone https://github.com/gluethegiant/bootstrap4-prototyping-glue projectname
+git clone https://github.com/gluethegiant/bootstrap3-prototyping-glue projectname
 ```
 
 Then open the folder in your command line and install the Node dependencies:

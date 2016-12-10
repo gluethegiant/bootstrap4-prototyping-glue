@@ -1,12 +1,12 @@
 {
-  "name": "bootstrap4-prototyping-glue",
-  "version": "0.0.3",
-  "description": "A rapid prototyping starter for Bootstrap 4 using Panini, Sass, and Gulp.",
-  "main": "gruntfile.js",
+  "name": "bootstrap3-prototyping-glue",
+  "version": "0.0.5",
+  "description": "A rapid prototyping starter for Bootstrap 3 using Panini, Sass, and Gulp.",
+  "main": "gulpfile.js",
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "browser-sync": "^2.17.6",
-    "bootstrap": "^4.0.0-alpha.5",
+    "bootstrap-sass": "^3.3.7",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-concat": "^2.6.0",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gluethegiant/bootstrap4-prototyping-glue.git"
+    "url": "https://github.com/gluethegiant/bootstrap3-prototyping-glue.git"
   },
   "bugs": {
-    "url": "https://github.com/gluethegiant/bootstrap4-prototyping-glue/issues",
+    "url": "https://github.com/gluethegiant/bootstrap3-prototyping-glue/issues",
     "email": "prmerchant@gmail.com"
   },
   "author": "Paul Merchant <prmerchant@gmail.com> (http://paulmerchant.com)",
