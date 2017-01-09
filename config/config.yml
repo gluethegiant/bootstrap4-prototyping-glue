@@ -52,7 +52,7 @@ SASS_OPTIONS:
   includePaths: "node_modules/"
 
 # Run UnCSS on production builds, experimental
-UNCSS_ON_BUILD: false
+UNCSS_ON: false
 
 # Paths and ignores for UnCSS
 UNCSS_OPTIONS:
